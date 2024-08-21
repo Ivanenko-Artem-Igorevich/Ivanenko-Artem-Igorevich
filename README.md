@@ -5,12 +5,12 @@
 - 📫 Чтобы связаться со мной, достаточно написать мне в телеграмм: @ParaGoneOne, или инстаграмм: all0530
 - ⚡ Из других увлечений: вокал, лёгкая атлетика, медитация. В процессе изучения Английского языка. Временно для лучшего тайминга пользуюсь переводчиком.
 ----------------------------------------------------------------------------------------------------------
-- 👋 Hi, my name is Artem. I am from the Republic of Belarus, the city of Minsk.
-- 👀 I actively use both Hard and Soft skills all the time.
-- 🌱 I am currently continuing to study Python and the Django web framework.
-- 💞️ I'm still looking for someone I'd like to work with.
+- 👋 Hi, my name is Artyom. I am from the Republic of Belarus, the city of Minsk.
+- 👀 I am actively interested in both Hard and Soft skills - all the time.
+- 🌱 At the moment, I continue to learn Python and the Django web framework.
+- 💞️ I am still looking for someone with whom I would like to cooperate.
 - 📫 To contact me, just write to me in telegram: @ParaGoneOne, or instagram: all0530
-- ⚡ From other hobbies: vocals, athletics, meditation. In the process of learning English. To save time, I use a temporary translator.
+- ⚡ Other hobbies: vocals, athletics, meditation. In the process of learning English. Temporarily, for better timing, I use a translator.
 
 <!---
 Ivanenko-Artem-Igorevich/Ivanenko-Artem-Igorevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
